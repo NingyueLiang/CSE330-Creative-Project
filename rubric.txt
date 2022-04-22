@@ -1,0 +1,17 @@
+Creative Vision: A web application which automates banking which I usually have to do manually in excel
+
+Rubric turned in on time (5 points)
+Languages/Frameworks used (30 points)
+	10 - Learned/Used React.js frontend
+	10 - Learned/Used Flask backend
+	10 - Learned/Used MongoDB database
+Functionality (40 points)
+	10 - Users can register, login, and logout
+	10 - Users can add new expense categories
+	10 - Users can add deposits, which are by default, distributed between expense categories
+		as set by the user, but can be customized with each deposit
+	10 - Users can add and remove expenses, which must be associated with a single expense category
+Best Practices (5 points)
+	3 Code is readable and well formatted
+	2 All pages pass the html validator
+Creative Portion (20 points)
